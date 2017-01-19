@@ -1,5 +1,5 @@
 import sys
-sys.path.append('../../software/models/')
+sys.path.append('../../sms-tools/software/models/')
 from utilFunctions import wavread
 from scipy.signal import get_window
 import matplotlib.pyplot as plt
